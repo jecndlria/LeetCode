@@ -1,5 +1,4 @@
-# Daily (hopefully!) LeetCode
-Tracking my LeetCode Progress
+# LeetCode Progress Tracking
 
 | # | Date | Problem | Solution | Difficulty | 
 | - | ---- | ------- | -------- | ---------- |
