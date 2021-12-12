@@ -1,6 +1,6 @@
 # DailyLeetCode
 Tracking my LeetCode Progress
 
-| # | Problem | Solution | Difficulty | 
-| - | ------- | -------- | ---------- |
-| 1 | Example | Example  | Easy       |
+| # | Date | Problem | Solution | Difficulty | 
+| - | ---- | ------- | -------- | ---------- |
+| 1 | 12/11/21 | Example | Example | Easy |
