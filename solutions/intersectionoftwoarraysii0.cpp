@@ -51,7 +51,7 @@ public:
         return intersection;
     }
     // NOTE: since LeetCode C++ compilers are NOT updated to C++20, the method unordered_map::contains()
-    // could not be used, requiring the user of iterators. 
+    // could not be used, requiring the use of iterators. 
     
     // ANOTHER NOTE: to save even more memory, you could also save the result into one of the existing
     // arrays, but I didn't want to do that as that would be bad practice (overwriting parameters)
